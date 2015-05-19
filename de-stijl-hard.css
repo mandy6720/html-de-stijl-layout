@@ -11,3 +11,51 @@
   width: 100%;
   font-size: 0px;
 }
+
+/* Commence Awesomeness!!! */
+
+/* Row heights and borders */
+.row {
+	height: 25vh;
+}
+.row:last-of-type {
+	border-bottom: none;
+}
+/* Cell Border styles */
+.cell {
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	display: inline-block;
+	height: 100%;
+
+}
+.cell:last-of-type {
+	border-right: none;
+}
+/* Column Widths */
+.col-1 {
+	width: 25%;
+}
+.col-2 {
+	width: 50%;
+}
+.col-3 {
+	width: 75%;
+}
+/* Colors */
+.yellow {
+	background-color: yellow;
+}
+.blue {
+	background-color: blue;
+}
+.red {
+	background-color: red;
+}
+.black {
+	background-color: black;
+}
+/* Misc Classes */
+.top {
+	border-bottom: none;
+}
