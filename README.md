@@ -1,3 +1,15 @@
+## CSS Layout - De Stijl - Homework from Day 2
+
+### What I did 
+
+In this assignment, we were given html and an image (in the style of paintings by Piet Mondrian) and tasked with creating CSS that would best re-create the given image.
+
+Below are the original instructions.
+
+
+
+
+
 ## CSS Layout - De Stijl
 
 ### Description
